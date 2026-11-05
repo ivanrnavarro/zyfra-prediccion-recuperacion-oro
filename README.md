@@ -41,6 +41,17 @@ El conjunto de prueba no incluye las variables de salida ni los cálculos de cad
 - La concentración de oro aumenta más de 5 veces desde la alimentación hasta la purificación final, lo que indica un proceso de extracción eficiente.
 - La plata se concentra en la flotación, pero su concentración cae en las etapas de purificación y se acumula en las colas. Esto sugiere evaluar el reprocesamiento de ese efluente.
 
+## Gráficas
+
+**Concentración de oro, plata y plomo por etapa del proceso**
+![Concentración de oro, plata y plomo por etapa del proceso](images/concentracion_metales_por_etapa.png)
+
+**Concentraciones totales: los valores en cero (sin sentido físico) se eliminaron**
+![Concentraciones totales: los valores en cero (sin sentido físico) se eliminaron](images/concentraciones_totales_anomalas.png)
+
+**Distribución del tamaño de partícula en entrenamiento y prueba**
+![Distribución del tamaño de partícula en entrenamiento y prueba](images/tamano_particula_entrenamiento_prueba.png)
+
 ## Próximos pasos
 
 - Probar modelos adicionales con mejor desempeño y bajo costo computacional.
